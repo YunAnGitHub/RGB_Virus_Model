@@ -4,7 +4,7 @@ the RGB virus model is a model to display the effect of giving different drugs t
 User can download the <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/tags"> download the software</a> and <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/releases/tag/Example"> example </a> in the release page.
 
 <hr>
-Installation
+<h3>Installation</h3>
 <ul>
 <li>Case 1. For the Windows or MacOS users with matlab installed.
 <ol>
@@ -20,4 +20,20 @@ Installation
 <li> Download  <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/tags"> the executable file (.exe file) </a> and unzip the file. 
 <li> Run the UI_color3D.exe  
 </ol>
+</ul>
 
+<p>
+<hr>
+<h3>Tutorial</h3>
+<ol>Steps:
+<li> Launch the UI_Color3D by using command UI_color3D or run UI_color3D.exe. 
+<li> Select the excel data by clicking button "Read_Xls".
+<li> Assign the output path by clicking button "Output folder"
+<li> Run the process by clicking button "Run"
+<li> save the images or video by clicking button "Figure" or "Video"
+</ol>
+
+<p>
+<hr>
+
+Feel free to <A HREF="mailto:huangya.work@gmail.com">mail me</A>  if you have any questions!
