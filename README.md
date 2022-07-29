@@ -30,7 +30,7 @@ User can download the <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/ta
 <li> Select the excel data by clicking button "Read_Xls".
 <li> Assign the output path by clicking button "Output folder"
 <li> Run the process by clicking button "Run"
-<li> save the images or video by clicking button "Figure" or "Video"
+<li> Save the images or video by clicking button "Figure" or "Video"
 </ol>
 
 <p>
