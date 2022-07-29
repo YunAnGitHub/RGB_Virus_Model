@@ -25,7 +25,7 @@ User can download the <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/ta
 <p>
 <hr>
 <h3>Tutorial</h3>
-<ol>Steps:
+<ol>Instructions:
 <li> Launch the UI_Color3D by using command UI_color3D or run UI_color3D.exe. 
 <li> Select the excel data by clicking button "Read_Xls".
 <li> Assign the output path by clicking button "Output folder"
