@@ -10,8 +10,8 @@ Installation
 <ol>
 <li> Download  <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/tags"> the source code (.m file) </a> and unzip the file. 
 <li> Add the path of the source code in your matlab path.<br> 
-     Use the command: addpath([the directory of source code])
-<li> Use the command UI_color3D to excute the toolbox. 
+     Use the command [addpath("the directory of source code")] in matlab command window.
+<li> Use the command [UI_color3D] in matlab command window to excute the toolbox. 
 </ol>
 <li>Case 2. For the Windows users without matlab installed.
 <ol>
