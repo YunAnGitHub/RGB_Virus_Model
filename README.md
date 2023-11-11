@@ -1,7 +1,7 @@
 # RGB_Virus_Model
 the RGB virus model is a model to displays the effect of giving different drugs to the virus. Each type of drug will ( up to three) refer to a Red, Green, Blue color, by observing the color, we can easily understand the total effect of the drugs to the virus.
 
-Users can download the <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/tag/UI_Color3D_V10.1"> download the software and example </a> on the release page.
+Users can download the <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/releases/tag/UI_Color3D_V10.1"> download the software and example </a> on the release page.
 
 <hr>
 <h3>Installation</h3>
