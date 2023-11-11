@@ -8,7 +8,7 @@ Users can download the <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/r
 <ul>
 <li>Case 1. For Windows or MacOS users with Matlab installed.
 <ol>
-<li> Download  <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/tags"> the source code (.m file) </a> and unzip the file. 
+<li> Download  <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/releases/tag/UI_Color3D_V10.1"> the source code (.m file) </a> and unzip the file. 
 <li> Add the path of the source code in your Matlab path.<br> 
      Use the command [addpath("the directory of source code")] in Matlab command window.
 <li> Use the command [UI_color3D] in the Matlab command window to execute the toolbox. 
@@ -17,7 +17,7 @@ Users can download the <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/r
 <li>Case 2. For Windows users without Matlab installed.
 <ol>
 <li> Download the <a href="https://ch.mathworks.com/products/compiler/matlab-runtime.html"> matlab runtime [R2017b (9.3)] </a> from the website and install it. 
-<li> Download  <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/tags"> the executable file (.exe file) </a> and unzip the file. 
+<li> Download  <a href="https://github.com/YunAnGitHub/RGB_Virus_Model/releases/tag/UI_Color3D_V10.1"> the executable file (.exe file) </a> and unzip the file. 
 <li> Run the UI_color3D.exe  
 </ol>
 </ul>
